@@ -36,7 +36,7 @@ No.
 * Initial release
 
 = 1.1 =
-* Checks for existence of title attribute before adding anything. Filters title with esc_attr() to avoid any markup in the title breaking the ing tag.
+* Checks for existence of title attribute before adding anything. Filters title with esc_attr() to avoid any markup in the title breaking the img tag.
 
 == Upgrade Notice ==
 
