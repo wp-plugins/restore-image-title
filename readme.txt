@@ -1,5 +1,5 @@
 === Restore Image Title ===
-Contributors: Les Bessant
+Contributors: LesBessant
 Tags: image, title
 Requires at least: 3.5
 Tested up to: 3.9
