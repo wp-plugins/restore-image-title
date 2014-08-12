@@ -2,8 +2,8 @@
 Contributors: LesBessant
 Tags: image, title
 Requires at least: 3.5
-Tested up to: 3.9
-Stable tag: 1.1
+Tested up to: 4 Beta 2
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,6 +38,9 @@ No.
 = 1.1 =
 * Checks for existence of title attribute before adding anything. Filters title with esc_attr() to avoid any markup in the title breaking the img tag.
 
+= 1.5 =
+* Now adds titles to gallery thumbnails, which also works for at least some lightbox plugins. Thanks to photoMaldives for posting code and OC2PS for prompting me to update the plugin.
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -46,3 +49,5 @@ First release
 = 1.1 =
 Checks for existence of title attribute before adding anything. Filters title with esc_attr() to avoid any markup in the title breaking the ing tag.
 
+= 1.5 =
+New feature - now adds titles to gallery thumbnails and to images displayed by lightbox plugins. 
