@@ -27,7 +27,7 @@ This plugin hooks into the media_send_to_editor filter and inserts the image tit
 
 = Does it do anything else? =
 
-No.
+No
 
 
 == Changelog ==
